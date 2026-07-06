@@ -18,70 +18,102 @@ Traditional loan approval processes often require extensive manual verification,
 🚀 Key Features
 
 ✅ Loan Eligibility Prediction
+
 ✅ Data Preprocessing & Feature Engineering
+
 ✅ Exploratory Data Analysis (EDA)
+
 ✅ Multiple Machine Learning Models Comparison
+
 ✅ Real-Time Prediction using Flask
+
 ✅ User-Friendly Web Interface
+
 ✅ IBM Cloud Deployment Ready
 
 
 
 
 🏗️ System Architecture
+
 The application follows a multi-layer architecture:
 
 User Layer
 •	Loan Applicants
+
 •	Credit Officers
+
 •	Financial Analysts
 
 Frontend Layer
 •	HTML Templates
+
 •	Responsive User Interface
+
 •	Input Forms for Applicant Data
 
 Flask Application Layer
 •	Request Handling
+
 •	Input Validation
+
 •	Prediction Processing
+
 •	Result Rendering
 
 Machine Learning Pipeline
 •	Data Collection
+
 •	Data Preprocessing
+
 •	Feature Engineering
+
 •	Model Training
+
 •	Model Evaluation
+
 •	Best Model Selection
 
 Deployment Layer
 •	IBM Cloud Hosting
+
 •	Browser-Based Access
+
 
 Data Preprocessing
 
 The following preprocessing techniques were applied:
 •	Missing Value Handling
+
 •	Mean Imputation for Numerical Features
+
 •	Mode Imputation 🔍 for Categorical Features
+
 •	Label Encoding
+
 •	Feature Transformation
+
 •	Data Cleaning and Validation
+
+
 
 🤖 Machine Learning Models Used
 
 The following classification algorithms were trained and evaluated:
 1.	Decision Tree Classifier
-2.	Random Forest Classifier
-3.	K-Nearest Neighbors (KNN)
-4.	XGBoost Classifier
+2.	
+3.	Random Forest Classifier
+4.	
+5.	K-Nearest Neighbors (KNN)
+6.	
+7.	XGBoost Classifier
 
 
 Best Model
 
 XGBoost Classifier
 •	Training Accuracy: 94.7%
+
 •	Testing Accuracy: 81.1%
 The trained XGBoost model was selected and integrated into the Flask application for real-time loan approval prediction.
 
@@ -94,17 +126,26 @@ Programming Language
 •	Python
 
 Libraries
+
 •	NumPy
+
 •	Pandas
+
 •	Matplotlib
+
 •	Seaborn
+
 •	Scikit-learn
+
 •	XGBoost
 
 Web Framework
+
 •	Flask
 
+
 Deployment Platform
+
 •	IBM Cloud
 
 
@@ -130,11 +171,16 @@ Smart-Lender/
 🔄 Application Workflow
 
 1.	User enters applicant details.
-2.	Flask application validates inputs.
-3.	Data is transformed into model-compatible format.
-4.	XGBoost model processes the data.
-5.	Prediction result is generated.
-6.	Loan Approval or Rejection status is displayed instantly.
+2.	
+3.	Flask application validates inputs
+4.	.
+5.	Data is transformed into model-compatible format.
+6.	
+7.	XGBoost model processes the data.
+8.	
+9.	Prediction result is generated.
+10.	
+11.	Loan Approval or Rejection status is displayed instantly.
 
 
 
@@ -158,12 +204,19 @@ Financial analysts can efficiently process large volumes of loan applications wh
 🎓 Learning Outcomes
 
 Through this project, the following skills were developed:
+
 •	Machine Learning Model Development
+
 •	Data Visualization & Analysis
+
 •	Classification Algorithms
+
 •	Feature Engineering
+
 •	Flask Web Development
+
 •	Model Evaluation Techniques
+
 •	End-to-End AI Project Deployment
 
 
@@ -173,9 +226,13 @@ Through this project, the following skills were developed:
 👨💻 Team Members
 
 Abhiram Yarlagadda(Team Lead)
+
 Valmiki Lakshmi Veer Manoj
+
 Gandimenu Akshaya
+
 Vasamsetti Venkata Sai Teja
+
 Juttuka Jaya Venkata Kumar
 
 
