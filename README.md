@@ -45,14 +45,18 @@ User Layer
 
 •	Financial Analysts
 
+
 Frontend Layer
+
 •	HTML Templates
 
 •	Responsive User Interface
 
 •	Input Forms for Applicant Data
 
+
 Flask Application Layer
+
 •	Request Handling
 
 •	Input Validation
@@ -61,7 +65,9 @@ Flask Application Layer
 
 •	Result Rendering
 
+
 Machine Learning Pipeline
+
 •	Data Collection
 
 •	Data Preprocessing
@@ -74,7 +80,10 @@ Machine Learning Pipeline
 
 •	Best Model Selection
 
+
+
 Deployment Layer
+
 •	IBM Cloud Hosting
 
 •	Browser-Based Access
