@@ -101,12 +101,12 @@ The following preprocessing techniques were applied:
 
 The following classification algorithms were trained and evaluated:
 1.	Decision Tree Classifier
-2.	
-3.	Random Forest Classifier
-4.	
-5.	K-Nearest Neighbors (KNN)
-6.	
-7.	XGBoost Classifier
+	
+2.	Random Forest Classifier
+	
+3.	K-Nearest Neighbors (KNN)
+	
+4.	XGBoost Classifier
 
 
 Best Model
