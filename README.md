@@ -180,16 +180,16 @@ Smart-Lender/
 🔄 Application Workflow
 
 1.	User enters applicant details.
-2.	
-3.	Flask application validates inputs
-4.	.
-5.	Data is transformed into model-compatible format.
-6.	
-7.	XGBoost model processes the data.
-8.	
-9.	Prediction result is generated.
-10.	
-11.	Loan Approval or Rejection status is displayed instantly.
+		
+2.	Flask application validates inputs
+	
+3.	Data is transformed into model-compatible format.
+	
+4.	XGBoost model processes the data.
+
+5.	Prediction result is generated.
+	
+6.	Loan Approval or Rejection status is displayed instantly.
 
 
 
